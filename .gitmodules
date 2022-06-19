@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "metabolomicsR"]
+	path = metabolomicsR
+	url = https://github.com/xikunhan/metabolomicsr
+	shallow = true
+	registered = true
+[submodule "TippingPoint"]
+	path = TippingPoint
+	url = https://github.com/xikunhan/tippingpoint
+	shallow = true
+	registered = true

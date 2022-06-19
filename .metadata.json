@@ -1,0 +1,10 @@
+[
+  {
+    "package": "metabolomicsR",
+    "oncran": true
+  },
+  {
+    "package": "TippingPoint",
+    "oncran": true
+  }
+]
